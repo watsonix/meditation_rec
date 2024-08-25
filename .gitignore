@@ -1,5 +1,9 @@
+.env
+__pycache__/*
+
+# tmp watson files
 streamlit_myna.py
 streamlit_poc.py
 setup.py
 streamlit.py
-.env
+
