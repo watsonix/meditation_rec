@@ -1,0 +1,6 @@
+langchain-core #==0.2.13
+langchain-community
+langchain-together
+together #==1.2.7
+python-dotenv #>=1.0.0
+streamlit
